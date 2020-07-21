@@ -1,0 +1,29 @@
+{
+    "name": "cordova-plugin-rotate",
+    "version": "0.0.1",
+    "description": "Cordova Screen Rotate Plugin",
+    "cordova": {
+        "id": "cordova-plugin-rotate",
+        "platforms": [
+            "android"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mebibou/cordova-plugin-backlight"
+    },
+    "bugs": {
+        "url": "https://github.com/mebibou/cordova-plugin-backlight/issues"
+    },
+    "keywords": [
+        "cordova",
+        "cordova-android",
+        "ecosystem:cordova"
+    ],
+    "engines": {
+        "name": "cordova",
+        "version": ">=3.0.0"
+    },
+    "author": "Chanon Trising",
+    "license": "Apache 2.0"
+}
